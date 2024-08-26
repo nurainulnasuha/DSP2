@@ -1,0 +1,30 @@
+Model,Brand,Fuel,Engine Type,Engine Size,Price ,Airbag,Wheelbase[inch],EnginePower ,Acceleration
+Q5 Sportback,Audi,Hybrid ,SI,2,206277,8,111,299,6.1
+A6 Allroad quattro,Audi,Hybrid ,SI,3,317520.14,7,111.42,228,6.2
+RS 6 Avant,Audi,Hybrid ,SI,4,557753.09,6,115.4,463,3.4
+Q5,Audi,Hybrid,SI,2,511770,6,111,300,6.1
+540i ,BMW,Hybrid ,SI,3,270270.29,8,117.1,210,4.8
+X1,BMW,Hybrid,SI,1.5,233708.3,6,105.1,494,9
+X5,BMW,Hybrid,SI,2,580006,8,117.1,360,4.8
+7,BMW,Hybrid,SI,3,1279425,7,126.6,240,4.9
+5,BMW,Hybrid,SI,2,477652,6,117.9,300,7.6
+Accord,Honda,Hybrid ,SI,2,197400,4,111.4,206,8.4
+Insight ,Honda,Hybrid ,SI,1.5,202470,4,106.3,83,14.2
+CR-Z,Honda,Hybrid,SI,1.5,46912.25,6,95.87,115,10.5
+Civic,Honda,Hybrid,SI,1.5,76765.5,4,107.7,127,7.8
+HR-V,Honda,Hybrid,SI,1.5,208119.8,4,104.5,107,10.7
+Elantra ,Hyundai,Hybrid ,SI,1.6,138258,6,107,112,8.5
+Sonata ,Hyundai,Hybrid ,SI,2,115492.05,9,111.8,143,8.2
+Santa Fe,Hyundai,Hybrid,SI,1.6,673830.5,6,110.8,203,9.5
+Kona,Hyundai,Hybrid,SI,1,187649,6,104.7,206,7.9
+Ioniq,Hyundai,Hybrid,SI,1.6,255885,7,106.3,77,10.1
+Niro,Kia,Hybrid ,SI,1.6,132400.85,7,107.1,77,10
+Sportage,Kia,Hybrid,SI,2,113442.35,7,108.5,115,7.7
+Niro,Kia,Hybrid,SI,1.5,127942.5,7,107.1,77,10
+C 300,Mercedes-Benz,Hybrid ,SI,2,183800,7,111.8,180,5.7
+AMG GLE 63 ,Mercedes-Benz,Hybrid ,SI,4,550188,5,117.9,450,3.9
+EQS,Mercedes-Benz,hbrid,Si,3.55,648888,9,126.4,560,6.2
+Kicks,Nissan,Hybrid,SI,1.2,143295.6,6,103.1,104,9.5
+Serena,Nissan,Hybrid,SI,1.2,153360.41,6,112.6,110,13.6
+Panamera,Porsche,Hybrid,SI,3,605594.5,10,116.1,243,4.4
+Cayenne,Porsche,Hybrid,SI,3,392357,10,114,184,3.3
